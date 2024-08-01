@@ -2,7 +2,7 @@
 """
 Created on Thu Aug  1 22:45:31 2024
 
-@author: mukes
+@author: mukesh
 """
 
 import cv2     #openCV use as cv2 in python
